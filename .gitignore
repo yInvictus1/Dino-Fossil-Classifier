@@ -1,0 +1,39 @@
+# Arquivos de Sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Arquivos Específicos do Projeto (NÃO VERSIONAR DADOS OU MODELOS)
+data/
+checkpoints/
+models/
